@@ -11,7 +11,7 @@ A supermarket wants to know its sales during Diwali Festival.
 •	Null values are dropped off
 
 ## Dataset used 
-<a href = "https://github.com/rinasingh1/Diwali_Sales_Analysis_Project/blob/main/Diwali%20Sales%20Dataset.csv"> View Diwali Sales Dataset</a>
+<a href = "https://github.com/rinasingh1/Diwali_Sales_Analysis_Project/blob/main/Diwali%20Sales%20Dataset.csv"> View Diwali Sales Dataset</a> This dataset consists of 11252.
 
 
 ## Exploratory Data Analysis
